@@ -1,5 +1,5 @@
-public class Cbhuat {
+public class Ccdxdb {
     public static void main() {
-        System.out.println("welet");
+        System.out.println("hrovb");
     }
 }
