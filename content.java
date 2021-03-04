@@ -1,5 +1,5 @@
-public class Ccdxdb {
+public class Ciuusi {
     public static void main() {
-        System.out.println("hrovb");
+        System.out.println("lsqjm");
     }
 }
