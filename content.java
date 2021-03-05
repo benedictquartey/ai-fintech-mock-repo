@@ -1,5 +1,5 @@
-public class Cthwle {
+public class Cokkhw {
     public static void main() {
-        System.out.println("cekin");
+        System.out.println("nrlmq");
     }
 }
