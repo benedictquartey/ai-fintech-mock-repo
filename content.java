@@ -1,5 +1,5 @@
-public class Ciuusi {
+public class Coljky {
     public static void main() {
-        System.out.println("lsqjm");
+        System.out.println("xstdt");
     }
 }
