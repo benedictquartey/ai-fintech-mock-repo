@@ -1,5 +1,5 @@
-public class Ccihmd {
+public class Cluywp {
     public static void main() {
-        System.out.println("qtalq");
+        System.out.println("etsnu");
     }
 }
