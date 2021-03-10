@@ -1,5 +1,5 @@
-public class Cluywp {
+public class Cljwbw {
     public static void main() {
-        System.out.println("etsnu");
+        System.out.println("arjev");
     }
 }
