@@ -1,5 +1,5 @@
-public class Cyqawb {
+public class Ccaixd {
     public static void main() {
-        System.out.println("gwsaw");
+        System.out.println("ntncl");
     }
 }
