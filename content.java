@@ -1,5 +1,5 @@
-public class Cpenay {
+public class Cyqawb {
     public static void main() {
-        System.out.println("kmbph");
+        System.out.println("gwsaw");
     }
 }
