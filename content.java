@@ -1,5 +1,5 @@
-public class Cpujoh {
+public class Csyrnh {
     public static void main() {
-        System.out.println("wuwuw");
+        System.out.println("utsue");
     }
 }
