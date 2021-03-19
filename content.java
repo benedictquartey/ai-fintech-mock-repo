@@ -1,5 +1,5 @@
-public class Csgjkf {
+public class Cssoog {
     public static void main() {
-        System.out.println("dtisa");
+        System.out.println("wluet");
     }
 }
