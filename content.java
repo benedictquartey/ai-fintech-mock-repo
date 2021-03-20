@@ -1,5 +1,5 @@
-public class Cssoog {
+public class Cfgswy {
     public static void main() {
-        System.out.println("wluet");
+        System.out.println("tnxxt");
     }
 }
