@@ -1,5 +1,5 @@
-public class Cavxer {
+public class Cstcjx {
     public static void main() {
-        System.out.println("ypley");
+        System.out.println("wbhcq");
     }
 }
