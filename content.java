@@ -1,5 +1,5 @@
-public class Cmapoj {
+public class Cbemlh {
     public static void main() {
-        System.out.println("psuxs");
+        System.out.println("sltxp");
     }
 }
