@@ -1,5 +1,5 @@
-public class Cnewyg {
+public class Cmapoj {
     public static void main() {
-        System.out.println("dkvtw");
+        System.out.println("psuxs");
     }
 }
