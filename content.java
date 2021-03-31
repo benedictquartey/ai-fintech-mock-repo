@@ -1,5 +1,5 @@
-public class Cbemlh {
+public class Cojacq {
     public static void main() {
-        System.out.println("sltxp");
+        System.out.println("bluja");
     }
 }
