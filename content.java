@@ -1,5 +1,5 @@
-public class Cojacq {
+public class Cyxyic {
     public static void main() {
-        System.out.println("bluja");
+        System.out.println("yodem");
     }
 }
