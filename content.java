@@ -1,5 +1,5 @@
-public class Cdpvfu {
+public class Cmkpuy {
     public static void main() {
-        System.out.println("irlhs");
+        System.out.println("tyacu");
     }
 }
