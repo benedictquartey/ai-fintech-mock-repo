@@ -1,5 +1,5 @@
-public class Cqgejl {
+public class Cobhxg {
     public static void main() {
-        System.out.println("ibdom");
+        System.out.println("kpsnv");
     }
 }
