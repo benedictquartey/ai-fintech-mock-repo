@@ -1,5 +1,5 @@
-public class Cxiscu {
+public class Ctbgqr {
     public static void main() {
-        System.out.println("sfpmf");
+        System.out.println("ysumc");
     }
 }
