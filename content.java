@@ -1,5 +1,5 @@
-public class Cmkpuy {
+public class Cqgejl {
     public static void main() {
-        System.out.println("tyacu");
+        System.out.println("ibdom");
     }
 }
