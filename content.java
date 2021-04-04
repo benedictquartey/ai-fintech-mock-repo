@@ -1,5 +1,5 @@
-public class Ctbgqr {
+public class Cxqjhw {
     public static void main() {
-        System.out.println("ysumc");
+        System.out.println("bicwq");
     }
 }
