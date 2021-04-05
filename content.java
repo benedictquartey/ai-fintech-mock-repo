@@ -1,5 +1,5 @@
-public class Cragms {
+public class Cmwfpg {
     public static void main() {
-        System.out.println("ybvjv");
+        System.out.println("puqdv");
     }
 }
