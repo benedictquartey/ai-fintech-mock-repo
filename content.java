@@ -1,5 +1,5 @@
-public class Cmwfpg {
+public class Clxiof {
     public static void main() {
-        System.out.println("puqdv");
+        System.out.println("iuopd");
     }
 }
