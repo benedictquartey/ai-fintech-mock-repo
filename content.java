@@ -1,5 +1,5 @@
-public class Ckrtii {
+public class Cgmoxp {
     public static void main() {
-        System.out.println("shuso");
+        System.out.println("jfwbo");
     }
 }
