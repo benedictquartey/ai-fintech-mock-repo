@@ -1,5 +1,5 @@
-public class Clxiof {
+public class Cybyvv {
     public static void main() {
-        System.out.println("iuopd");
+        System.out.println("betno");
     }
 }
