@@ -1,5 +1,5 @@
-public class Cybyvv {
+public class Cqpniw {
     public static void main() {
-        System.out.println("betno");
+        System.out.println("cwomw");
     }
 }
