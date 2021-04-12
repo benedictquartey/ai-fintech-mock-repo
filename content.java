@@ -1,5 +1,5 @@
-public class Cajglm {
+public class Cjkesm {
     public static void main() {
-        System.out.println("kmwdq");
+        System.out.println("mqpmq");
     }
 }
