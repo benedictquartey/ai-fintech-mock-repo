@@ -1,5 +1,5 @@
-public class Cnaogj {
+public class Coqqtm {
     public static void main() {
-        System.out.println("tgpsy");
+        System.out.println("vclmb");
     }
 }
