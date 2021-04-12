@@ -1,5 +1,5 @@
-public class Cqpniw {
+public class Cxbigv {
     public static void main() {
-        System.out.println("cwomw");
+        System.out.println("uobev");
     }
 }
