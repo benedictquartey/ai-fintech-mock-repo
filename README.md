@@ -2,6 +2,8 @@
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
+These contributions were made to a proprietary AI-based fintech product I built in my role as principal ML engineer in a startup. 
+
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
 ## Notice
